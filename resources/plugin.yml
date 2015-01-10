@@ -1,0 +1,6 @@
+name: TeamMoose
+prefix: TM
+main: org.teammoose.TeamMooseMain
+author: Johnn
+authors: [Johnn]
+description: Base plugin for TMs plugins
