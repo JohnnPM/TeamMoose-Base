@@ -25,15 +25,15 @@ public class TeamMooseMain extends JavaPlugin
 	
 	@Override public void onLoad()
 	{
-		
+
 	}
 	
 	@Override public void onEnable()
-	{
+	{		
 		instance = this;
 		try
 		{
-			
+
 		} catch(Exception e)
 		{
 			e.printStackTrace();
